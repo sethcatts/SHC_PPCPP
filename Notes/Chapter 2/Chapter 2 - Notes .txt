@@ -1,0 +1,6 @@
+Strings are always declared using double quotes    | "string"
+character output stream                            | cout
+new line                                           | "\n"
+comments                                           | //comment
+program starts at the main function                | int main()
+functions in c++: return type, name, params, body  | int main(str) {...}
