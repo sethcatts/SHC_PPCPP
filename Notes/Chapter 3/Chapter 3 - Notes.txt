@@ -1,0 +1,3 @@
+Variables are objects with a type.
+Input reads as the type that of the variable.
+ 
